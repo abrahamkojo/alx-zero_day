@@ -1,2 +1,1 @@
-My first readme
-second work in readme
+__is file is mandatory in projects__
